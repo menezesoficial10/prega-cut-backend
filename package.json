@@ -1,14 +1,14 @@
 {
   "name": "prega-cut-backend",
   "version": "1.0.0",
-  "description": "Backend do PREGA.CUT",
+  "description": "Backend do PREGA.CUT para processamento de vídeos",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "multer": "^1.4.5-lts.1"
+    "express": "^5.1.0",
+    "multer": "^2.0.2"
   }
 }
